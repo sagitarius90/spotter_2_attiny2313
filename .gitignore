@@ -1,0 +1,8 @@
+
+# AvrStudio files
+**/Debug
+*.avrsuo
+
+# Proteus files
+*.pdsbak
+*.workspace

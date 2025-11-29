@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "spotter", "spotter\spotter.avrgccproj", "{213B371E-2B3A-4BE7-A899-E52D2AAA9B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213B371E-2B3A-4BE7-A899-E52D2AAA9B0D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{213B371E-2B3A-4BE7-A899-E52D2AAA9B0D}.Debug|AVR.Build.0 = Debug|AVR
+		{213B371E-2B3A-4BE7-A899-E52D2AAA9B0D}.Release|AVR.ActiveCfg = Release|AVR
+		{213B371E-2B3A-4BE7-A899-E52D2AAA9B0D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
