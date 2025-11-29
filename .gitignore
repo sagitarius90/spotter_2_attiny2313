@@ -6,3 +6,9 @@
 # Proteus files
 *.pdsbak
 *.workspace
+Mekefile
+*.d
+*.mk
+*.o
+*.eep
+*.elf
